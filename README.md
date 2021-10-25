@@ -4,10 +4,11 @@ Free open source Script-Fu library for Gimp 2.10.28
 
 2021/10/24: GimpλLib 1.0 by AlSchemist for Gimp 2.10.28 TinyScheme Script-Fu
 
-How to install GimpλLib for Gimp 2.10.28?
-
+How to *install* GimpλLib for Gimp 2.10.28?
+```
 Copy *.scm "C:\Users\YourUserName\AppData\Roaming\GIMP\2.10\scripts\"  
                      ^ replace with your Windows user name
+```
 Run Gimp
 
 Copyright notices:
