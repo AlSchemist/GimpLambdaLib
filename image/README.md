@@ -1,1 +1,1 @@
-Pictures for the [GimpλLib Wiki](wiki)
+Pictures for the [GimpλLib Wiki](/wiki/)
