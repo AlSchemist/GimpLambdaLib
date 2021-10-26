@@ -7,7 +7,7 @@ Free open source [Script-Fu](https://docs.gimp.org/2.10/en/gimp-concepts-script-
 ## Setup
 ![scripts .scm](https://github.com/AlSchemist/GimpLambdaLib/wiki/images/filemngt-scripts.webp)
 
-How to *install* [scripts .scm](https://github.com/AlSchemist/GimpLambdaLib/tree/main/scripts) GimpλLib for Gimp 2.10.28?
+How to *install* [scripts\\\*.scm](https://github.com/AlSchemist/GimpLambdaLib/releases/tag/v1.0.0) GimpλLib for Gimp 2.10.28?
 ```
 Copy *.scm "C:\Users\YourUserName\AppData\Roaming\GIMP\2.10\scripts\"  
                      ^ replace with your Windows user name
@@ -32,7 +32,7 @@ are permitted provided that the following conditions are met:
 3. This source code cannot be sell.
 
 Unless a specific copyright, credits or URL is specified,
-this free open source code is Copyright (C) AlSchemist (2021).
+this free open source code is Copyright :copyright: AlSchemist (2021).
 All Rights Reserved.
 
 This software is provided by the authors "as is" and any express or
