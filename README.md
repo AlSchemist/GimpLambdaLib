@@ -1,17 +1,22 @@
 # GimpLambdaLib
-![Gimp Lambda Lib](/image/iconGimpLambdaLib.webp)
-Free open source Script-Fu library for Gimp 2.10.28
+[![Gimp Lambda Lib](https://github.com/AlSchemist/GimpLambdaLib/wiki/images/iconGimpLambdaLib.webp)](https://github.com/AlSchemist/GimpLambdaLib/wiki)
+Free open source [Script-Fu](https://docs.gimp.org/2.10/en/gimp-concepts-script-fu.html) a.k.a [TinyScheme](http://tinyscheme.sourceforge.net/home.html) library for [Gimp](https://www.gimp.org/) 2.10.28
 
-2021/10/24: GimpλLib 1.0 by AlSchemist for Gimp 2.10.28 TinyScheme Script-Fu
+2021/10/24: GimpλLib 1.0 by AlSchemist
 
-How to *install* GimpλLib for Gimp 2.10.28?
+## Setup
+![scripts .scm](https://github.com/AlSchemist/GimpLambdaLib/wiki/images/filemngt-scripts.webp)
+
+How to *install* [scripts .scm](https://github.com/AlSchemist/GimpLambdaLib/tree/main/scripts) GimpλLib for Gimp 2.10.28?
 ```
 Copy *.scm "C:\Users\YourUserName\AppData\Roaming\GIMP\2.10\scripts\"  
                      ^ replace with your Windows user name
 ```
-Run Gimp
+Run **Gimp**
 
-Copyright notices:
+Usage: Gimp 2.10.28 menu "**Filters**" > "**Script-Fu**" > "**Console**"
+
+## Copyright notices
 
 Redistribution and use in source forms, with or without modification,
 are permitted provided that the following conditions are met:
@@ -42,5 +47,3 @@ however caused and on any theory of liability, whether in contract,
 strict liability, or tort (including negligence or otherwise)
 arising in any way out of the use of this software,
 even if advised of the possibility of such damage.
-
-Usage: Gimp 2.10.28 menu "Filters" > "Script-Fu" > "Console"
