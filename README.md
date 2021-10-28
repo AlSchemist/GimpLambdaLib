@@ -2,8 +2,8 @@
 [![Gimp Lambda Lib](https://github.com/AlSchemist/GimpLambdaLib/wiki/images/iconGimpLambdaLib.webp)](https://github.com/AlSchemist/GimpLambdaLib/wiki)
 Free open source [Script-Fu](https://docs.gimp.org/2.10/en/gimp-concepts-script-fu.html) a.k.a [TinyScheme](http://tinyscheme.sourceforge.net/home.html) library for [Gimp](https://www.gimp.org/) 2.10.28
 
-2021/10/24: GimpλLib 1.0 by AlSchemist
-
+:spiral_calendar: 2021/10/24: GimpλLib 1.0 by AlSchemist
+***
 ## Setup
 ![scripts .scm](https://github.com/AlSchemist/GimpLambdaLib/wiki/images/filemngt-scripts.webp)
 
@@ -14,8 +14,12 @@ Copy *.scm "C:\Users\YourUserName\AppData\Roaming\GIMP\2.10\scripts\"
 ```
 Run **Gimp**
 
-Usage: Gimp 2.10.28 menu "**Filters**" > "**Script-Fu**" > "**Console**"
+:clapper: Usage: Gimp 2.10.28 menu "**Filters**" > "**Script-Fu**" > "**Console**"
+***
+## Wiki
 
+:desktop_computer: More information in the [GimpλLib's wiki](https://github.com/AlSchemist/GimpLambdaLib/wiki).
+***
 ## Copyright notices
 
 Redistribution and use in source forms, with or without modification,
