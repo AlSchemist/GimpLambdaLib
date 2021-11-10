@@ -33,7 +33,7 @@ are permitted provided that the following conditions are met:
 2. The name of the authors may not be used to endorse or promote products
    derived from this software without specific prior written permission.
 
-3. This source code cannot be sell.
+3. This source code cannot be sold.
 
 Unless a specific copyright, credits or URL is specified,
 this free open source code is Copyright :copyright: AlSchemist (2021).
