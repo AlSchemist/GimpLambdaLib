@@ -1,20 +1,20 @@
 # GimpLambdaLib
 [![Gimp Lambda Lib](https://github.com/AlSchemist/GimpLambdaLib/wiki/images/iconGimpLambdaLib.webp)](https://github.com/AlSchemist/GimpLambdaLib/wiki)
-Free open source [Script-Fu](https://docs.gimp.org/2.10/en/gimp-concepts-script-fu.html) a.k.a [TinyScheme](http://tinyscheme.sourceforge.net/home.html) library for [Gimp](https://www.gimp.org/) 2.10.28
+Free open source [Script-Fu](https://docs.gimp.org/2.10/en/gimp-concepts-script-fu.html) a.k.a [TinyScheme](http://tinyscheme.sourceforge.net/home.html) library for [Gimp](https://www.gimp.org/) 2.10.30
 
-:spiral_calendar: 2021/10/24: GimpλLib 1.0 by AlSchemist
+:spiral_calendar: 2022/03/17: GimpλLib 1.1 by AlSchemist
 ***
 ## Setup
 ![scripts .scm](https://github.com/AlSchemist/GimpLambdaLib/wiki/images/filemngt-scripts.webp)
 
-How to *install* [scripts\\\*.scm](https://github.com/AlSchemist/GimpLambdaLib/releases/tag/v1.0.0) GimpλLib for Gimp 2.10.28?
+How to *install* [scripts\\\*.scm](https://github.com/AlSchemist/GimpLambdaLib/releases/tag/v1.0.0) GimpλLib for Gimp 2.10.30?
 ```
 Copy *.scm "C:\Users\YourUserName\AppData\Roaming\GIMP\2.10\scripts\"  
                      ^ replace with your Windows user name
 ```
 Run **Gimp**
 
-:clapper: Usage: Gimp 2.10.28 menu "**Filters**" > "**Script-Fu**" > "**Console**"
+:clapper: Usage: Gimp 2.10.30 menu "**Filters**" > "**Script-Fu**" > "**Console**"
 ***
 ## Wiki
 
@@ -36,7 +36,7 @@ are permitted provided that the following conditions are met:
 3. This source code cannot be sold.
 
 Unless a specific copyright, credits or URL is specified,
-this free open source code is Copyright :copyright: AlSchemist (2021).
+this free open source code is Copyright :copyright: AlSchemist (2022).
 All Rights Reserved.
 
 This software is provided by the authors "as is" and any express or
