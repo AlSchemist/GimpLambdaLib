@@ -1,0 +1,103 @@
+2022/03/17: GimpλLib 1.1 by AlSchemist for Gimp 2.10.30 TinyScheme Script-Fu
+GimpλLib.sqlite and GimpScript-Fu-PDB.sqlite are optionnal.
+You can use the *.scm scripts of GimpλLib in Gimp without these databases.
+PDB stands for Procedure DataBase inside Gimp.
+
+GimpλLib.sqlite and GimpScript-Fu-PDB.sqlite are useful to edit *.scm script
+in NotePad++.
+
+How to install GimpλLib.sqlite and GimpScript-Fu-PDB.sqlite for Gimp 2.10.28 in Notepad++?
+
+About the free editor of text Notepad++:
+https://notepad-plus-plus.org/downloads/
+
+NppSnippets is a free plug-in for Notepad++ that reads *.sqlite databases.
+© Copyright 2010-2021, Frank Fesevur
+
+NppSnippets is delivered under the GNU General Public License.
+
+"How to install or upgrade"
+https://nppsnippets.readthedocs.io/en/latest/installation.html
+
+Notepad++ menu "Plugins" > "Plugins Admin..."
+First tab "Available"
+Scroll and check "Snippets" 1.7
+Click "Install"
+
+"How to use"
+https://nppsnippets.readthedocs.io/en/latest/usage.html
+
+Notepad++ menu "Plugins" > "Snippets" > [x] "Snippets"
+
+"Importing and exporting libraries"
+https://nppsnippets.readthedocs.io/en/latest/libraries.html
+
+Click New to create an empty text file.
+Notepad++ menu "Language" > "S" > "Scheme"
+
+Right-click the combo-box under "Snippets" in the column of the right.
+> contextual menu "Import library..."
+Select GimpλLib.sqlite
+Confirm.
+
+Scroll until "show"
+Dbclick to "show"
+
+(show firstPrm lstOtherPrm)
+will be the first line of the text file.
+
+You need to replace the formal parameters firstPrm and lstOtherPrm.
+For example:
+
+(show "pi: " *pi*)
+
+Copy the above Script-Fu line in the clipboard.
+Paste it in the input area of the Script-Fu console:
+The displayed result will be:
+
+pi: 3.141592654
+
+Do it again for GimpScript-Fu-PDB.sqlite
+Scroll until "gimp-version"
+Dbclick to "gimp-version"
+
+(gimp-version)
+appears in the text file.
+
+Copy the above Script-Fu line in the clipboard.
+Paste in the input area of the Script-Fu console:
+The displayed result will be:
+
+("2.10.30")
+__________________
+
+Copyright notices about GimpλLib.sqlite and GimpScript-Fu-PDB.sqlite:
+
+Redistribution and use in binary forms, with or without modification,
+are permitted, free of charge, provided that the following conditions are met:
+1. Redistributions of source code must retain:
+   - the copyright notices,
+   - the original URL provided by AlSchemist:
+     https://github.com/AlSchemist/GimpLambdaLib
+   - this list of conditions and the following disclaimer.
+2. The name of the authors may not be used to endorse or promote products
+   derived from this software without specific prior written permission.
+
+3. This source code cannot be sell.
+
+Unless a specific copyright, credits or URL is specified,
+this free open source code is Copyright (C) AlSchemist (2022).
+All Rights Reserved.
+
+This software is provided by the authors "as is" and any express or
+implied warranties, including, but not limited to, the implied warranties
+of merchantability and fitness for a particular purpose are disclaimed.
+
+In no event shall the authors be liable for any direct, indirect,
+incidental, special, exemplary, or consequential damages 
+(including, but not limited to, procurement of substitute goods or services;
+loss of use, data, or profits; or business interruption)
+however caused and on any theory of liability, whether in contract, 
+strict liability, or tort (including negligence or otherwise)
+arising in any way out of the use of this software,
+even if advised of the possibility of such damage.
